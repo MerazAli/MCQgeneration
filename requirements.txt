@@ -1,0 +1,5 @@
+openai
+langchain
+streamlit
+python-dotenv                           # it help to create or upload to all environment varaiable
+PyPDF2
